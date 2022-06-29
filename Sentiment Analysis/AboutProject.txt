@@ -1,0 +1,7 @@
+Sentiment Analysis Using Twitter Data
+
+This study on sentiment analysis was produced using a neural network model called LTSM (Long Short-Term Memory). For this project, tweets about the Russia-Ukraine war are gathered from twiiter using Twitter API and classified into positive, negative, and neutral messages based on mood.
+
+Project language: Python3
+Project Platform: Jupyter Notebook
+Project Framework: TensorFlow
